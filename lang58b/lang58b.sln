@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FD48973F-F585-4F70-812B-4D0503B36CE9}") = "lang58b", "lang58b\lang58b.pyproj", "{57CB41A7-D66E-4B33-9807-63B4F6E2D434}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57CB41A7-D66E-4B33-9807-63B4F6E2D434}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57CB41A7-D66E-4B33-9807-63B4F6E2D434}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57CB41A7-D66E-4B33-9807-63B4F6E2D434}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57CB41A7-D66E-4B33-9807-63B4F6E2D434}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal

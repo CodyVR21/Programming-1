@@ -1,0 +1,12 @@
+C:\Users\salmon.c\Desktop\Programming-1\idk\idk\obj\Debug\idk.pyprojResolveAssemblyReference.cache
+C:\Users\salmon.c\Desktop\Programming-1\idk\idk\obj\Debug\idk.pyproj.GenerateResource.Cache
+C:\Users\salmon.c\Desktop\Programming-1\idk\idk\bin\Debug\IronPython.dll
+C:\Users\salmon.c\Desktop\Programming-1\idk\idk\bin\Debug\IronPython.Modules.dll
+C:\Users\salmon.c\Desktop\Programming-1\idk\idk\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\salmon.c\Desktop\Programming-1\idk\idk\bin\Debug\Microsoft.Scripting.dll
+C:\Users\salmon.c\Desktop\Programming-1\idk\idk\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\salmon.c\Desktop\Programming-1\idk\idk\bin\Debug\Hello World!.exe.config
+C:\Users\salmon.c\Desktop\Programming-1\idk\idk\bin\Debug\Hello World!.exe
+C:\Users\salmon.c\Desktop\Programming-1\idk\idk\bin\Debug\Hello World!.dll
+C:\Users\salmon.c\Desktop\Programming-1\idk\idk\obj\Debug\Hello World!.MainForm.resources
+C:\Users\salmon.c\Desktop\Programming-1\idk\idk\obj\Debug\Hello World!.exe

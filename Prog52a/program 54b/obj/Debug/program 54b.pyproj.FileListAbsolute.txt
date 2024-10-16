@@ -1,0 +1,12 @@
+C:\Users\salmon.c\Desktop\Programming-1\Prog52a\program 54b\bin\Debug\program 54b.exe.config
+C:\Users\salmon.c\Desktop\Programming-1\Prog52a\program 54b\bin\Debug\program 54b.exe
+C:\Users\salmon.c\Desktop\Programming-1\Prog52a\program 54b\bin\Debug\program 54b.dll
+C:\Users\salmon.c\Desktop\Programming-1\Prog52a\program 54b\bin\Debug\IronPython.dll
+C:\Users\salmon.c\Desktop\Programming-1\Prog52a\program 54b\bin\Debug\IronPython.Modules.dll
+C:\Users\salmon.c\Desktop\Programming-1\Prog52a\program 54b\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\salmon.c\Desktop\Programming-1\Prog52a\program 54b\bin\Debug\Microsoft.Scripting.dll
+C:\Users\salmon.c\Desktop\Programming-1\Prog52a\program 54b\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\salmon.c\Desktop\Programming-1\Prog52a\program 54b\obj\Debug\program 54b.pyprojResolveAssemblyReference.cache
+C:\Users\salmon.c\Desktop\Programming-1\Prog52a\program 54b\obj\Debug\program_54b.MainForm.resources
+C:\Users\salmon.c\Desktop\Programming-1\Prog52a\program 54b\obj\Debug\program 54b.pyproj.GenerateResource.Cache
+C:\Users\salmon.c\Desktop\Programming-1\Prog52a\program 54b\obj\Debug\program 54b.exe

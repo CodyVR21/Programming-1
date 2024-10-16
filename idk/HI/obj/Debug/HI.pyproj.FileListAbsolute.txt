@@ -1,0 +1,12 @@
+C:\Users\salmon.c\Desktop\Programming-1\idk\HI\bin\Debug\HI.exe.config
+C:\Users\salmon.c\Desktop\Programming-1\idk\HI\bin\Debug\HI.exe
+C:\Users\salmon.c\Desktop\Programming-1\idk\HI\bin\Debug\HI.dll
+C:\Users\salmon.c\Desktop\Programming-1\idk\HI\bin\Debug\IronPython.dll
+C:\Users\salmon.c\Desktop\Programming-1\idk\HI\bin\Debug\IronPython.Modules.dll
+C:\Users\salmon.c\Desktop\Programming-1\idk\HI\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\salmon.c\Desktop\Programming-1\idk\HI\bin\Debug\Microsoft.Scripting.dll
+C:\Users\salmon.c\Desktop\Programming-1\idk\HI\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\salmon.c\Desktop\Programming-1\idk\HI\obj\Debug\HI.pyprojResolveAssemblyReference.cache
+C:\Users\salmon.c\Desktop\Programming-1\idk\HI\obj\Debug\HI.MainForm.resources
+C:\Users\salmon.c\Desktop\Programming-1\idk\HI\obj\Debug\HI.pyproj.GenerateResource.Cache
+C:\Users\salmon.c\Desktop\Programming-1\idk\HI\obj\Debug\HI.exe
