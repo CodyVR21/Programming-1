@@ -19,4 +19,6 @@ else:
 cost = copies * price
 print("Price per copy is $" + str(price))
 print("Total cost is $" + str(round(cost,2)))
-input()  # Press 'Enter' to close; only need for SharpDevelop
+
+input()
+# Press 'Enter' to close; only need for SharpDevelop

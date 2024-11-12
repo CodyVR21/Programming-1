@@ -1,0 +1,10 @@
+C:\Users\salmon.c\Desktop\Programming-1\Screen Stuff\Screen Stuff\bin\Debug\StringStuff.exe.config
+C:\Users\salmon.c\Desktop\Programming-1\Screen Stuff\Screen Stuff\bin\Debug\StringStuff.exe
+C:\Users\salmon.c\Desktop\Programming-1\Screen Stuff\Screen Stuff\bin\Debug\StringStuff.dll
+C:\Users\salmon.c\Desktop\Programming-1\Screen Stuff\Screen Stuff\bin\Debug\IronPython.dll
+C:\Users\salmon.c\Desktop\Programming-1\Screen Stuff\Screen Stuff\bin\Debug\IronPython.Modules.dll
+C:\Users\salmon.c\Desktop\Programming-1\Screen Stuff\Screen Stuff\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\salmon.c\Desktop\Programming-1\Screen Stuff\Screen Stuff\bin\Debug\Microsoft.Scripting.dll
+C:\Users\salmon.c\Desktop\Programming-1\Screen Stuff\Screen Stuff\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\salmon.c\Desktop\Programming-1\Screen Stuff\Screen Stuff\obj\Debug\Screen Stuff.pyprojResolveAssemblyReference.cache
+C:\Users\salmon.c\Desktop\Programming-1\Screen Stuff\Screen Stuff\obj\Debug\StringStuff.exe

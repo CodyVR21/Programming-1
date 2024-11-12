@@ -87,6 +87,7 @@ class MainForm(Form):
         self._textBox1.BackColor = System.Drawing.Color.Blue
         self._textBox1.BorderStyle = System.Windows.Forms.BorderStyle.None
         self._textBox1.Font = System.Drawing.Font("Microsoft Sans Serif", 21.75, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, 0)
+        self._textBox1.ForeColor = System.Drawing.SystemColors.Window
         self._textBox1.Location = System.Drawing.Point(242, 83)
         self._textBox1.Name = "textBox1"
         self._textBox1.Size = System.Drawing.Size(224, 33)

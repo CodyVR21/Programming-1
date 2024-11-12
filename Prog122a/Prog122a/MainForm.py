@@ -45,7 +45,7 @@ class MainForm(Form):
         self._button2.BackColor = System.Drawing.Color.Red
         self._button2.Font = System.Drawing.Font("Microsoft Sans Serif", 20.25, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, 0)
         self._button2.ForeColor = System.Drawing.SystemColors.ControlLightLight
-        self._button2.Location = System.Drawing.Point(185, 493)
+        self._button2.Location = System.Drawing.Point(199, 493)
         self._button2.Name = "button2"
         self._button2.Size = System.Drawing.Size(152, 63)
         self._button2.TabIndex = 2

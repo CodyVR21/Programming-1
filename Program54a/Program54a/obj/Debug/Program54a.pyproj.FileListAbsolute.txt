@@ -1,0 +1,10 @@
+C:\Users\salmon.c\Desktop\Programming-1\Program54a\Program54a\obj\Debug\Program54a.pyprojResolveAssemblyReference.cache
+C:\Users\salmon.c\Desktop\Programming-1\Program54a\Program54a\bin\Debug\Program54a.exe.config
+C:\Users\salmon.c\Desktop\Programming-1\Program54a\Program54a\bin\Debug\Program54a.exe
+C:\Users\salmon.c\Desktop\Programming-1\Program54a\Program54a\bin\Debug\Program54a.dll
+C:\Users\salmon.c\Desktop\Programming-1\Program54a\Program54a\bin\Debug\IronPython.dll
+C:\Users\salmon.c\Desktop\Programming-1\Program54a\Program54a\bin\Debug\IronPython.Modules.dll
+C:\Users\salmon.c\Desktop\Programming-1\Program54a\Program54a\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\salmon.c\Desktop\Programming-1\Program54a\Program54a\bin\Debug\Microsoft.Scripting.dll
+C:\Users\salmon.c\Desktop\Programming-1\Program54a\Program54a\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\salmon.c\Desktop\Programming-1\Program54a\Program54a\obj\Debug\Program54a.exe

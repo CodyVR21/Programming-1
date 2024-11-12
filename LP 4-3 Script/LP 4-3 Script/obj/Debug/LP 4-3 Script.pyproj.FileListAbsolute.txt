@@ -1,0 +1,10 @@
+C:\Users\salmon.c\Desktop\Programming-1\LP 4-3 Script\LP 4-3 Script\bin\Debug\LP 4-3 Script.exe.config
+C:\Users\salmon.c\Desktop\Programming-1\LP 4-3 Script\LP 4-3 Script\bin\Debug\LP 4-3 Script.exe
+C:\Users\salmon.c\Desktop\Programming-1\LP 4-3 Script\LP 4-3 Script\bin\Debug\LP 4-3 Script.dll
+C:\Users\salmon.c\Desktop\Programming-1\LP 4-3 Script\LP 4-3 Script\bin\Debug\IronPython.dll
+C:\Users\salmon.c\Desktop\Programming-1\LP 4-3 Script\LP 4-3 Script\bin\Debug\IronPython.Modules.dll
+C:\Users\salmon.c\Desktop\Programming-1\LP 4-3 Script\LP 4-3 Script\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\salmon.c\Desktop\Programming-1\LP 4-3 Script\LP 4-3 Script\bin\Debug\Microsoft.Scripting.dll
+C:\Users\salmon.c\Desktop\Programming-1\LP 4-3 Script\LP 4-3 Script\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\salmon.c\Desktop\Programming-1\LP 4-3 Script\LP 4-3 Script\obj\Debug\LP 4-3 Script.pyprojResolveAssemblyReference.cache
+C:\Users\salmon.c\Desktop\Programming-1\LP 4-3 Script\LP 4-3 Script\obj\Debug\LP 4-3 Script.exe
