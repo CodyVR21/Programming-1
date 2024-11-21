@@ -338,6 +338,14 @@ class MainForm(Form):
             if num1 == 2 and num2 == 2 and num3 == 2:
                 newmoney += bet * 2
             
+            if num1 == 1 and num2 == 1 and num3 == 3:
+                newmoney += bet * 2
+                
+            if num1 == 1 and num2 == 1 and num3 == 4:
+                newmoney += bet * 2
+                
+            if num1 == 1 and num2 == 1 and num3 == 5:
+                newmoney += bet * 2   
             # TODO: check if num1, num2, and num3 = 3, 4, and 5
             # and multiply bet by whatever you want
             
