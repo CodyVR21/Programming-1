@@ -27,6 +27,7 @@ class MainForm(Form):
         self._timerleft = System.Windows.Forms.Timer(self._components)
         self._timerball = System.Windows.Forms.Timer(self._components)
         self._timermulti = System.Windows.Forms.Timer(self._components)
+        self._button1 = System.Windows.Forms.Button()
         self.SuspendLayout()
         # 
         # lbltitle
@@ -109,10 +110,21 @@ class MainForm(Form):
         # 
         self._timermulti.Interval = 20
         # 
+        # button1
+        # 
+        self._button1.Location = System.Drawing.Point(950, 12)
+        self._button1.Name = "button1"
+        self._button1.Size = System.Drawing.Size(24, 23)
+        self._button1.TabIndex = 6
+        self._button1.Text = "X"
+        self._button1.UseVisualStyleBackColor = True
+        self._button1.Click += self.Button1Click
+        # 
         # MainForm
         # 
         self.BackColor = System.Drawing.Color.Black
         self.ClientSize = System.Drawing.Size(982, 590)
+        self.Controls.Add(self._button1)
         self.Controls.Add(self._lblright)
         self.Controls.Add(self._lblleft)
         self.Controls.Add(self._lblball)
@@ -274,3 +286,6 @@ class MainForm(Form):
         self._lbltitle.Width = self.Width - 25
         self._lblball.Left = self.Width // 2
         self._lblball.Top = self.Height // 2
+
+    def Button1Click(self, sender, e):
+        
